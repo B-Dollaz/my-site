@@ -1,0 +1,106 @@
+.trees {
+    background-color: #0080008f;
+}
+
+.fish {
+    background-color: #add8e68f;
+}
+
+.open {
+    background-color: #a52a2a5f;
+}
+
+.fckingtrees,
+.fckingfish,
+.fckingrocks {
+    padding: 5px 0px 5px 5px;
+    border: 2px solid black;
+}
+
+.fckingtrees {
+    background-color: green;
+}
+
+.fckingfish {
+    background-color: lightblue;
+}
+
+.fckingrocks {
+    background-color: brown;
+}
+
+.treelist {
+    color: rgb(1, 97, 1);
+}
+
+.sectionclose {
+    background-color: black;
+    color: white;
+    padding: 5px 5px 5px 10px;
+    font-size: 20px;
+}
+
+.center {
+    text-align: center;
+}
+.right {
+    text-align: right;
+}
+
+.brownbg {
+    background-color: brown;
+}
+
+
+.greybg {
+    background-color: grey;
+}
+
+.blackbg {
+    background-color: black;
+}
+
+.bluetxt {
+    color: blue;
+}
+
+.redtxt {
+    color:red;
+    
+}
+
+.img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.logo {
+    width: 40%;
+    border-radius: 30px;
+    height: auto;
+    width: 500px;
+}
+
+.treeimg {
+    border-radius: 50px;
+    margin-top: -15px;
+    height: auto;
+    width: 500px;
+    }
+
+    .fishimg {
+        border-radius: 50%;
+        height: auto;
+        width: 350px;
+    }
+
+.h2 {
+    font-size:50px;
+}
+
+.beaver {
+    background-color: brown;
+    padding: 15px;
+    width: 100px;
+}
